@@ -1,0 +1,22 @@
+.body_backgorund {
+    background-image: url("LOGO.PNG");
+    background-position: center;
+    background-size: cover;
+  }
+
+  h1
+  {
+      color: red; 
+      font-size: 40px;
+  }
+  
+  #myCanvas
+  {
+      background-image: none; 
+  
+  }
+  
+  span
+  {
+      font-size: 20px;
+  }
